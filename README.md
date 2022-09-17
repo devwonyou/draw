@@ -1,3 +1,6 @@
+# museum, site builder, tools, refs
+- can absolutely use https://masonry.desandro.com/
+
 # references
 Maybe add on CSV
 
